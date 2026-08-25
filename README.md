@@ -20,5 +20,3 @@ The random-forest surrogate classifier achieved an accuracy of 0.833, a macro-F1
 Install the packages in `requirements.txt`, then update the relative input paths in the scripts if complete map reproduction is required. Raw navigation surfaces, healthcare POIs, population rasters, administrative boundaries, terrain data and satellite imagery are not included because of size or third-party access conditions.
 
 The Type A-D labels are planning-oriented regimes. The random forest is an explainable surrogate used to diagnose regime differentiation and should not be interpreted as a causal model.
-
-Before public release, reconcile the reported facility total (20,759 versus 20,761) and the primary-care walking-threshold population estimate (18.90 versus 20.09 million).
